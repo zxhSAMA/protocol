@@ -12,6 +12,7 @@
 -[ ] DNA电泳
 -[x] 胶回收
 -[x] Gibson
+-[x] 菌落PCR
 -[ ] *E.coli*转化
 
 
