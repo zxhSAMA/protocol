@@ -9,10 +9,11 @@
 #### Protocol 列表 
 
 -[ ] PCR
--[ ] DNA电泳
+-[x] DNA电泳
 -[x] 胶回收
 -[x] Gibson
 -[x] 菌落PCR
+-[x] 酵母培养基
 -[ ] *E.coli*转化
 
 
