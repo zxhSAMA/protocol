@@ -7,6 +7,7 @@
 * 模版 $0.5{\mu}l$
 * 正向引物＋反向引物 $0.5{\mu}l+0.5{\mu}l$
 * 水 $8.5{\mu}l$
+* PrimerStar延伸时间$15s/Kb$
 * 加完以后记得把PrimerStar放冰箱
 
 
