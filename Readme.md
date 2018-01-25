@@ -14,7 +14,7 @@
 -[x] Gibson
 -[x] 菌落PCR
 -[x] 酵母培养基
--[ ] *E.coli*转化
+-[x] *E.coli*转化
 
 
 
